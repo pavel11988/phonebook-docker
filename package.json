@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "phonebook-docker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pavel11988.github.io/goit-react-hw-04-hooks-phonebook/",
+  "homepage": "https://github.com/pavel11988/phonebook-docker/",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
